@@ -22,20 +22,26 @@
      "edges": [
       {
         "id": 1,
-        "title": "edge 1",
-        "description": "this is description 1",
+        "name": "edge 1",
+        "clientId": 1,
         "active": true
       },
       {
         "id": 2,
-        "title": "edge 2",
-        "description": "this is description 2",
+        "name": "edge 2",
+        "clientId": 2,
         "active": true
       },
       {
         "id": 3,
-        "title": "edge 3",
-        "description": "this is description 3",
+        "name": "edge 3",
+        "clientId": 3,
+        "active": false
+      },
+      {
+        "id": 4,
+        "name": "edge 4",
+        "clientId": 3,
         "active": false
       }
     ]
