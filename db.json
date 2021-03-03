@@ -1,6 +1,5 @@
 {
-  "ext":[
-    {"clients": [
+  "clients": [
         {
           "id": 1,
           "title": "client 1",
@@ -16,10 +15,8 @@
           "title": "client 3",
           "description": "this is description 3"
         }
-      ]
-    },
-    {
-      "edges": [
+      ],
+       "edges": [
         {
           "id": 1,
           "title": "edge 1",
@@ -36,6 +33,4 @@
           "description": "this is description 3"
         }
       ]
-    }
-    ]
 }
