@@ -1,5 +1,5 @@
 {
-  "ext/clients": [
+    "clients": [
         {
           "id": 1,
           "title": "client 1",
@@ -16,21 +16,21 @@
           "description": "this is description 3"
         }
       ],
-       "ext/edges": [
-        {
-          "id": 1,
-          "title": "edge 1",
-          "description": "this is description 1"
-        },
-        {
-          "id": 2,
-          "title": "edge 2",
-          "description": "this is description 2"
-        },
-        {
-          "id": 3,
-          "title": "edge 3",
-          "description": "this is description 3"
-        }
-      ]
+     "edges": [
+      {
+        "id": 1,
+        "title": "edge 1",
+        "description": "this is description 1"
+      },
+      {
+        "id": 2,
+        "title": "edge 2",
+        "description": "this is description 2"
+      },
+      {
+        "id": 3,
+        "title": "edge 3",
+        "description": "this is description 3"
+      }
+    ]
 }
