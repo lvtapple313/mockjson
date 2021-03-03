@@ -16,7 +16,7 @@
       "description": "this is description 3"
     }
   ],
-  "users": [
+  "clients": [
     {
       "id": 1,
       "title": "Post 1",
