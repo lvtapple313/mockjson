@@ -2,21 +2,21 @@
     "clients": [
         {
           "id": 1,
-          "title": "client 1",
-          "description": "this is description 1",
-          "active": true
+          "name": "User 1",
+          "email": "test1@test.com",
+          "timeZone": "America/Denver"
         },
         {
           "id": 2,
-          "title": "client 2",
-          "description": "this is description 2",
-           "active": true
+          "name": "User 2",
+          "email": "test2@test.com",
+          "timeZone": "America/Denver"
         },
         {
           "id": 3,
-          "title": "client 3",
-          "description": "this is description 3",
-           "active": false
+          "name": "User 3",
+          "email": "test3@test.com",
+          "timeZone": "America/Denver"
         }
       ],
      "edges": [
