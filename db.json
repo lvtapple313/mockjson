@@ -2,19 +2,19 @@
     "clients": [
         {
           "id": 1,
-          "name": "Walmart",
+          "name": "Client 1",
           "email": "test1@test.com",
           "isActive": true
         },
         {
           "id": 2,
-          "name": "Rowes",
+          "name": "Client 2",
           "email": "test2@test.com",
           "isActive": true
         },
         {
           "id": 3,
-          "name": "Target",
+          "name": "Client 3",
           "email": "test3@test.com",
           "isActive": true
         }
